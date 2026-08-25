@@ -74,6 +74,24 @@
 
 ---
 
+### 5. diagram-design
+**描述**: 编辑图表设计集合  
+**特点**:
+- 38种编辑图表类型
+- 自包含的 HTML + SVG
+- 无阴影设计
+- 专为 Claude Code、Codex、Pi 优化
+- 提供生产级别的图表模板
+
+**用途**:
+- UI/UX 设计参考
+- 图表设计学习
+- 代码编辑器集成
+
+**链接**: https://github.com/yanlei183/diagram-design
+
+---
+
 ## 学习路径建议
 
 ### 初学者
@@ -85,11 +103,13 @@
 1. 深入研究 **QmlBook-In-Chinese** 的高级特性
 2. 学习 **skills** 中的代理技能开发
 3. 参考 **mattpocock-skills** 优化代码结构
+4. 研究 **diagram-design** 的设计模式
 
 ### AI 代理开发
 1. 学习 **skills** 仓库中的技能定义
 2. 参考 **mattpocock-skills** 的工程实践
 3. 在 **blogs** 中查找相关教程
+4. 使用 **diagram-design** 进行系统设计
 
 ---
 
@@ -99,6 +119,8 @@
 - 提示词工程 (Prompt Engineering)
 - AI 代理开发
 - 最佳实践与设计模式
+- UI/UX 设计
+- 图表和可视化设计
 
 ---
 

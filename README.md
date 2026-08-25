@@ -28,6 +28,10 @@
 | **ego-lite** | AI 代理浏览器自动化工具，支持共享登录状态，零成本零配置 | [查看](https://github.com/yanlei183/ego-lite) |
 | **pi** | AI 代理工具包：统一 LLM API、代理循环、TUI、编码代理 CLI | [查看](https://github.com/yanlei183/pi) |
 | **gork-build** | Grok Build 独立发行版，移除了厂商遥测和品牌标识 | [查看](https://github.com/yanlei183/gork-build) |
+| **deer-flow** | 开源长地平线超级代理，支持研究、编码、创建等多层级任务 | [查看](https://github.com/yanlei183/deer-flow) |
+| **dify** | 构建代理工作流和 RAG 管道的协作平台，支持云端/本地/VPC 部署 | [查看](https://github.com/yanlei183/dify) |
+| **penguin-harness** | RSI 代理框架 - 让 AI 构建 AI，完全透明 | [查看](https://github.com/yanlei183/penguin-harness) |
+| **superpowers** | 代理技能框架和软件开发方法论 | [查看](https://github.com/yanlei183/superpowers) |
 
 ---
 
@@ -63,6 +67,7 @@
 |--------|------|------|
 | **cs-data** | 数据处理库 (TypeScript) | [查看](https://github.com/yanlei183/cs-data) |
 | **cs-datav** | 3D 可视地图 | [查看](https://github.com/yanlei183/cs-datav) |
+| **OpenMontage** | 世界首个开源代理视频生成系统，包含12条生产管道和100+工具 | [查看](https://github.com/yanlei183/OpenMontage) |
 
 ---
 
@@ -76,6 +81,7 @@
 | **blogs** | 博客相关 Demo 代码 | [查看](https://github.com/yanlei183/blogs) |
 | **mattpocock-skills** | 来自 .claude 目录的真实工程师技能分享 | [查看](https://github.com/yanlei183/mattpocock-skills) |
 | **skills** | 代理技能公开仓库 | [查看](https://github.com/yanlei183/skills) |
+| **diagram-design** | 38种编辑图表类型设计，包含 HTML + SVG，专为 Claude Code、Codex、Pi 优化 | [查看](https://github.com/yanlei183/diagram-design) |
 
 ---
 
@@ -88,6 +94,10 @@
 | **CSerialPort** | 基于 C++ 的轻量级跨平台串口类库 | [查看](https://github.com/yanlei183/CSerialPort) |
 | **nodejs-fingure** | R303 指纹模块集成 (Node.js、51单片机、三菱 CNC) | [查看](https://github.com/yanlei183/nodejs-fingure) |
 | **-public-apis** | 免费 API 汇总列表 | [查看](https://github.com/yanlei183/-public-apis) |
+| **codebase-memory-mcp** | 高性能代码智能 MCP 服务器，支持158种语言，毫秒级索引 | [查看](https://github.com/yanlei183/codebase-memory-mcp) |
+| **markitdown** | Python 工具：将文件和办公文档转换为 Markdown | [查看](https://github.com/yanlei183/markitdown) |
+| **ollama** | LLM 推理引擎，支持 Kimi、GLM、DeepSeek、Qwen 等模型 | [查看](https://github.com/yanlei183/ollama) |
+| **vllm** | 高吞吐和高效内存的 LLM 推理和服务引擎 | [查看](https://github.com/yanlei183/vllm) |
 
 ---
 
@@ -116,14 +126,14 @@
 
 ## 📊 统计信息
 
-- **总项目数**: 25
+- **总项目数**: 35
 - **按分类统计**:
-  - 🤖 AI 智能体: 5 个
+  - 🤖 AI 智能体: 9 个
   - 🚁 无人机/自动驾驶: 3 个
   - 💻 桌面应用: 3 个
-  - 📱 前端/数据可视化: 2 个
-  - 📚 学习/文档: 4 个
-  - 🛠️ 工具库: 3 个
+  - 📱 前端/数据可视化: 3 个
+  - 📚 学习/文档: 5 个
+  - 🛠️ 工具库: 7 个
   - 🌐 网络工具: 3 个
   - 📦 其他项目: 2 个
 
